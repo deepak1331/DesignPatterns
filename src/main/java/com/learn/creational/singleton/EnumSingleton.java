@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 
 /**
  * To overcome this situation with Reflection, Joshua Bloch suggests the use of

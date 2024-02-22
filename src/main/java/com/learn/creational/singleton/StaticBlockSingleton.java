@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 /**
  * 
  * @author Deepak
@@ -7,7 +7,7 @@ package creational.singleton;
  * except that instance of the class is created in the static block that provides
  * the option for exception handling.
  * Both eager initialization and static block initialization create the instance
- * even before it’s being used and that is not the best practice to use.
+ * even before itï¿½s being used and that is not the best practice to use.
  */
 public class StaticBlockSingleton {
 

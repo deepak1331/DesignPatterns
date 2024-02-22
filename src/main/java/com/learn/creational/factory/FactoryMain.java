@@ -1,4 +1,7 @@
-package creational.factory;
+package com.learn.creational.factory;
+
+import com.learn.creational.factory.mobile.MobilePhone;
+import com.learn.creational.factory.mobile.factory.MobileFactory;
 
 public class FactoryMain {
 

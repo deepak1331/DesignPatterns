@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

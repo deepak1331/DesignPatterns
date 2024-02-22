@@ -1,4 +1,6 @@
-package behavioral.chain_of_responsibility;
+package com.learn.behavioral.chain_of_responsibility.handler;
+
+import com.learn.behavioral.chain_of_responsibility.handler.impl.PaymentHandler;
 
 public class BankPaymentHandler extends PaymentHandler {
 

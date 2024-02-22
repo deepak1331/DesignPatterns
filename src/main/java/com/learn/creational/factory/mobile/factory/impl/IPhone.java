@@ -1,4 +1,6 @@
-package creational.factory;
+package com.learn.creational.factory.mobile.factory.impl;
+
+import com.learn.creational.factory.mobile.MobilePhone;
 
 public class IPhone implements MobilePhone {
 	

@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 public class MyMain {
 
 	public static void main(String[] args) throws CloneNotSupportedException {

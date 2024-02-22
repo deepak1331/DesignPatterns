@@ -1,4 +1,4 @@
-package creational.singleton;
+package com.learn.creational.singleton;
 
 /***
  * 
@@ -14,7 +14,7 @@ package creational.singleton;
  *         approach to use. But in most of the scenarios, singleton classes are
  *         created for resources such as File System, Database connections, etc.
  *         We should avoid the instantiation unless the client calls the
- *         getInstance method. Also, this method doesn’t provide any options for
+ *         getInstance method. Also, this method doesnï¿½t provide any options for
  *         exception handling.
  */
 public class EagerIntializedSingleton {

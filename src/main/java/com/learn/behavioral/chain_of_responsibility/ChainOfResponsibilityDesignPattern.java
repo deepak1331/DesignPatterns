@@ -1,4 +1,8 @@
-package behavioral.chain_of_responsibility;
+package com.learn.behavioral.chain_of_responsibility;
+
+import com.learn.behavioral.chain_of_responsibility.handler.BankPaymentHandler;
+import com.learn.behavioral.chain_of_responsibility.handler.impl.PaymentHandler;
+import com.learn.behavioral.chain_of_responsibility.handler.impl.*;
 
 public class ChainOfResponsibilityDesignPattern {
 

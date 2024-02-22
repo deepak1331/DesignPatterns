@@ -1,4 +1,4 @@
-package creational.prototype;
+package com.learn.creational.prototype;
 
 public class MyMain {
 

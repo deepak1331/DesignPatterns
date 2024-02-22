@@ -1,4 +1,4 @@
-package creational.builder;
+package com.learn.creational.builder;
 
 public class Mobile {
 

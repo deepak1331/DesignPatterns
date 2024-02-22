@@ -1,4 +1,6 @@
-package creational.abstract_factory;
+package com.learn.creational.abstract_factory.concrete;
+
+import com.learn.creational.abstract_factory.factory.Employee;
 
 public class JavaDeveloper implements Employee {
 
